@@ -10,7 +10,7 @@
 - To ensure controls have been implemented and are effective – this provides assurance to information security and senior management
 - To test applications that are often the avenues of attack (Applications are built by people who can make mistakes despite best practices in software development)
 - To discover new bugs in existing software (patches and updates can fix existing vulnerabilities, but they can also introduce new vulnerabilities)
-- 
+
 > For best practices on vulnerability disclosure guidelines, please follow [this guidance](https://kb.cert.org/vuls/guidance/) to report it responsibly.
 
 
