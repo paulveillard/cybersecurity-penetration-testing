@@ -5,6 +5,8 @@
 
 [Penetration testing](https://en.wikipedia.org/wiki/Penetration_test), also known as pen testing, security pen testing, and security testing, is a form of ethical hacking. A penetration test, also called a pen test or ethical hacking, is a cybersecurity technique organizations use to identify, test and highlight vulnerabilities in their security posture. 
 
+![penetration-testing-cybersecurity](https://github.com/paulveillard/cybersecurity-penetration-testing/blob/main/penetration-testing-cybersecurity.png)
+
 ### Penetration Testing is important for the following key reasons:
 - To determine the weakness in the infrastructure (hardware), application (software) and people in order to develop controls
 - To ensure controls have been implemented and are effective – this provides assurance to information security and senior management
