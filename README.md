@@ -898,6 +898,8 @@ See also *[Proxies and Machine-in-the-Middle (MITM) Tools](#proxies-and-machine-
 * [wePWNise](https://labs.mwrinfosecurity.com/tools/wepwnise/) - Generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software.
 * [WinPwn](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
 
+**[`^        back to top        ^`](#)**
+
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
