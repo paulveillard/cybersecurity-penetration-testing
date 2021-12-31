@@ -15,6 +15,8 @@
 
 > For best practices on vulnerability disclosure guidelines, please follow [this guidance](https://kb.cert.org/vuls/guidance/) to report it responsibly.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Contents
 
@@ -100,16 +102,22 @@
   * [Web Exploitation Books](#web-exploitation-books)
 * [Windows Utilities](#windows-utilities)
 
+**[`^        back to top        ^`](#)**
+
 ## Android Utilities
 
 * [cSploit](https://www.csploit.org/) - Advanced IT security professional toolkit on Android featuring an integrated Metasploit daemon and MITM capabilities.
 * [Fing](https://www.fing.com/products/fing-app/) - Network scanning and host enumeration app that performs NetBIOS, UPnP, Bonjour, SNMP, and various other advanced device fingerprinting techniques.
+
+**[`^        back to top        ^`](#)**
 
 ## Anonymity Tools
 
 * [I2P](https://geti2p.net/) - The Invisible Internet Project.
 * [Metadata Anonymization Toolkit (MAT)](https://0xacab.org/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats, written in Python3.
 * [What Every Browser Knows About You](http://webkay.robinlinus.com/) - Comprehensive detection page to test your own Web browser's configuration for privacy and identity leaks.
+
+**[`^        back to top        ^`](#)**
 
 ### Tor Tools
 
@@ -122,6 +130,8 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 * [dos-over-tor](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
 * [kalitorify](https://github.com/brainfuckSec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
 
+**[`^        back to top        ^`](#)**
+
 ## Anti-virus Evasion Tools
 
 * [AntiVirus Evasion Tool (AVET)](https://github.com/govolution/avet) - Post-process exploits containing executable files targeted for Windows machines to avoid being recognized by antivirus software.
@@ -131,6 +141,8 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 * [UniByAv](https://github.com/Mr-Un1k0d3r/UniByAv) - Simple obfuscator that takes raw shellcode and generates Anti-Virus friendly executables by using a brute-forcable, 32-bit XOR key.
 * [Veil](https://www.veil-framework.com/) - Generate metasploit payloads that bypass common anti-virus solutions.
 * [peCloakCapstone](https://github.com/v-p-b/peCloakCapstone) - Multi-platform fork of the peCloak.py automated malware antivirus evasion tool.
+
+**[`^        back to top        ^`](#)**
 
 ## Books
 
@@ -160,6 +172,8 @@ See also [DEF CON Suggested Reading](https://www.defcon.org/html/links/book-list
 * [Violent Python by TJ O'Connor, 2012](https://www.elsevier.com/books/violent-python/unknown/978-1-59749-957-6)
 * [iOS Hacker's Handbook by Charlie Miller et al., 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118204123.html)
 
+**[`^        back to top        ^`](#)**
+
 ### Malware Analysis Books
 
 See [cybersecurity-malware-analysis § Books](https://github.com/paulveillard/cybersecurity-malware-analysis#books).
@@ -172,6 +186,8 @@ See [cybersecurity-malware-analysis § Books](https://github.com/paulveillard/cy
 * [ctf-tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools easily and quickly deployable to new machines.
 * [shellpop](https://github.com/0x00-0x00/shellpop) - Easily generate sophisticated reverse or bind shell commands to help you save time during penetration tests.
 
+**[`^        back to top        ^`](#)**
+
 ## Cloud Platform Attack Tools
 
 See also *[HackingThe.cloud](https://hackingthe.cloud/)*.
@@ -182,6 +198,8 @@ See also *[HackingThe.cloud](https://hackingthe.cloud/)*.
 * [Endgame](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
 
+**[`^        back to top        ^`](#)**
+
 ## Collaboration Tools
 
 * [Dradis](https://dradisframework.com) - Open-source reporting and collaboration tool for IT security professionals.
@@ -189,6 +207,8 @@ See also *[HackingThe.cloud](https://hackingthe.cloud/)*.
 * [Pentest Collaboration Framework (PCF)](https://gitlab.com/invuls/pentest-projects/pcf) - Open source, cross-platform, and portable toolkit for automating routine pentest processes with a team.
 * [Reconmap](https://reconmap.org/) - Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
 * [RedELK](https://github.com/outflanknl/RedELK) - Track and alarm about Blue Team activities while providing better usability in long term offensive operations.
+
+**[`^        back to top        ^`](#)**
 
 ## Conferences and Events
 
@@ -218,6 +238,8 @@ See also *[HackingThe.cloud](https://hackingthe.cloud/)*.
 * [Troopers](https://www.troopers.de) - Annual international IT Security event with workshops held in Heidelberg, Germany.
 * [HoneyCON](https://honeycon.eu/) - Annual Security Conference in Guadalajara, Spain. Organized by the HoneySEC association.
 
+**[`^        back to top        ^`](#)**
+
 ### North America
 
 * [AppSecUSA](https://appsecusa.org/) - Annual conference organized by OWASP.
@@ -237,6 +259,8 @@ See also *[HackingThe.cloud](https://hackingthe.cloud/)*.
 * [SummerCon](https://www.summercon.org/) - One of the oldest hacker conventions in America, held during Summer.
 * [ThotCon](http://thotcon.org/) - Annual US hacker conference held in Chicago.
 * [Virus Bulletin Conference](https://www.virusbulletin.com/conference/index) - Annual conference going to be held in Denver, USA for 2016.
+
+**[`^        back to top        ^`](#)**
 
 ### South America
 
@@ -519,16 +543,16 @@ See also *[Intercepting Web proxies](#intercepting-web-proxies)*.
 * [.NET Programming](https://github.com/quozd/awesome-dotnet) - Software framework for Microsoft Windows platform development.
 * [Infosec/hacking videos recorded by cooper](https://administraitor.video) - Collection of security conferences recorded by Cooper.
 * [Android Exploits](https://github.com/sundaysec/Android-Exploits) - Guide on Android Exploitation and Hacks.
-* [Android Security](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
-* [AppSec](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
+* [Android Security](https://github.com/paulveillard/cybersecurity-android-security) - Collection of Android security related resources.
+* [AppSec](https://github.com/paulveillard/cybersecurity-appsec) - Resources for learning about application security.
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
-* [Awesome Malware](https://github.com/fabacab/awesome-malware) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
+* [Malware](https://github.com/paulveillard/cybersecurity-malware-analysis) - Curated collection of awesome malware, botnets, and other post-exploitation tools.
 * [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
 * [AWS Tool Arsenal](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
-* [Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
+* [Blue Team](https://github.com/paulveillard/cybersecurity-blue-team) - Awesome resources, tools, and other shiny things for cybersecurity blue teams.
 * [C/C++ Programming](https://github.com/fffaraz/awesome-cpp) - One of the main language for open source security tools.
-* [CTFs](https://github.com/apsdehal/awesome-ctf) - Capture The Flag frameworks, libraries, etc.
-* [Forensics](https://github.com/Cugu/awesome-forensics) - Free (mostly open source) forensic analysis tools and resources.
+* [CTFs](https://github.com/paulveillard/cybersecurity-ctf) - Capture The Flag frameworks, libraries, etc.
+* [Forensics](https://github.com/paulveillard/cybersecurity-forensics) - Free (mostly open source) forensic analysis tools and resources.
 * [Hacking](https://github.com/carpedm20/awesome-hacking) - Tutorials, tools, and resources.
 * [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
 * [InfoSec § Hacking challenges](https://github.com/AnarchoTechNYC/meta/wiki/InfoSec#hacking-challenges) - Comprehensive directory of CTFs, wargames, hacking challenge websites, pentest practice lab exercises, and more.
@@ -552,11 +576,15 @@ See also *[Intercepting Web proxies](#intercepting-web-proxies)*.
 * [Shell Scripting](https://github.com/alebcay/awesome-shell) - Command line frameworks, toolkits, guides and gizmos.
 * [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
 
+**[`^        back to top        ^`](#)**
+
 ### Penetration Testing Report Templates
 
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 * [T&VS Pentesting Report Template](https://www.testandverification.com/wp-content/uploads/template-penetration-testing-report-v03.pdf) - Pentest report template provided by Test and Verification Services, Ltd.
 * [Web Application Security Assessment Report Template](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.
+
+**[`^        back to top        ^`](#)**
 
 ## Open Sources Intelligence (OSINT)
 
@@ -576,6 +604,8 @@ See also [awesome-osint](https://github.com/jivoi/awesome-osint).
 * [image-match](https://github.com/ascribe/image-match) - Quickly search over billions of images.
 * [recon-ng](https://github.com/lanmaster53/recon-ng) - Full-featured Web Reconnaissance framework written in Python.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+
+**[`^        back to top        ^`](#)**
 
 
 ### Data Broker and Search Engine Services
