@@ -479,6 +479,8 @@ See also *[Intercepting Web proxies](#intercepting-web-proxies)*.
 * [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
 * [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
+**[`^        back to top        ^`](#)**
+
 ### Web Vulnerability Scanners
 
 * [ACSTIS](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
@@ -495,6 +497,8 @@ See also *[Intercepting Web proxies](#intercepting-web-proxies)*.
 * [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
 
 ## Online Resources
+
+**[`^        back to top        ^`](#)**
 
 ### Online Operating Systems Resources
 
@@ -593,6 +597,8 @@ See also [awesome-osint](https://github.com/jivoi/awesome-osint).
 * [fast-recon](https://github.com/DanMcInerney/fast-recon) - Perform Google dorks against a domain.
 * [pagodo](https://github.com/opsdisk/pagodo) - Automate Google Hacking Database scraping.
 * [snitch](https://github.com/Smaash/snitch) - Information gathering via dorks.
+
+**[`^        back to top        ^`](#)**
 
 ### Email search and analysis tools
 
