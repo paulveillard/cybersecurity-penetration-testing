@@ -162,7 +162,7 @@ See also [DEF CON Suggested Reading](https://www.defcon.org/html/links/book-list
 
 ### Malware Analysis Books
 
-See [awesome-malware-analysis § Books](https://github.com/rshipp/awesome-malware-analysis#books).
+See [cybersecurity-malware-analysis § Books](https://github.com/paulveillard/cybersecurity-malware-analysis#books).
 
 ## CTF Tools
 
