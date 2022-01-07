@@ -28,14 +28,5 @@ The base of these tools do not contain any customer/client related sensitive inf
 
 ---
 
-### ☕ Show Support ☕
 
-This and other projects are outcome of sleepless nights and **plenty of hard work**. If you like what I do and appreciate that I always give back to the community,
-[Consider buying me a coffee](https://github.com/sponsors/mgeeky) _(or better a beer)_ just to say thank you! 💪 
-
----
-
-```
-Mariusz Banach / mgeeky, (@mariuszbit)
-<mb [at] binary-offensive.com>
 ```
