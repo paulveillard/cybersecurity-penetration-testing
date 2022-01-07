@@ -1,4 +1,5 @@
 ## A collection of my Penetration Testing Tools, Scripts, Cheatsheets
+> Over than 160+ tools, scripts, cheatsheets and other loots that we have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of our real-world engagements.
 
 This is a collection of more than a **160+** tools, scripts, cheatsheets and other loots that I've been developing over years for Penetration Testing and IT Security audits purposes. 
 Most of them came handy at least once during my real-world engagements.
