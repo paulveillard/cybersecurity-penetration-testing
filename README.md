@@ -1,6 +1,5 @@
 # Cybersecurity Penetration Testing
-###### The World of Cybersecurity Penetration Testing :
-> A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity penetration testing.
+A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity penetration testing.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ##  `What is Penetration Testing? `
