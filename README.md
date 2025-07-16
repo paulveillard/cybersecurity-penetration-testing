@@ -848,6 +848,7 @@ See also [awesome-social-engineering](https://github.com/v2-dev/awesome-social-e
 * [Vulnerability Lab](https://www.vulnerability-lab.com/) - Open forum for security advisories organized by category of exploit target.
 * [Vulners](https://vulners.com/) - Security database of software vulnerabilities.
 * [Vulmon](https://vulmon.com/) - Vulnerability search engine with vulnerability intelligence features that conducts full text searches in its database.
+* [Vulert-DB](https://vulert.com/vuln-db/search) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 * [Zero Day Initiative](http://zerodayinitiative.com/advisories/published/) - Bug bounty program with publicly accessible archive of published security advisories, operated by TippingPoint.
 
 ## Web Exploitation
