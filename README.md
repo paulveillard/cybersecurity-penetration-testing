@@ -840,6 +840,7 @@ See also [awesome-social-engineering](https://github.com/v2-dev/awesome-social-e
 * [Microsoft Security Advisories and Bulletins](https://docs.microsoft.com/en-us/security-updates/) - Archive and announcements of security advisories impacting Microsoft software, published by the Microsoft Security Response Center (MSRC).
 * [Mozilla Foundation Security Advisories](https://www.mozilla.org/security/advisories/) - Archive of security advisories impacting Mozilla software, including the Firefox Web Browser.
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/) - United States government's National Vulnerability Database provides additional meta-data (CPE, CVSS scoring) of the standard CVE List along with a fine-grained search engine.
+* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 * [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Database of vulnerabilities affecting open source software, queryable by project, Git commit, or version.
 * [Packet Storm](https://packetstormsecurity.com/files/) - Compendium of exploits, advisories, tools, and other security-related resources aggregated from across the industry.
 * [SecuriTeam](http://www.securiteam.com/) - Independent source of software vulnerability information.
