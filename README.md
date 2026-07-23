@@ -106,6 +106,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Android Utilities
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 * [cSploit](https://www.csploit.org/) - Advanced IT security professional toolkit on Android featuring an integrated Metasploit daemon and MITM capabilities.
 * [Fing](https://www.fing.com/products/fing-app/) - Network scanning and host enumeration app that performs NetBIOS, UPnP, Bonjour, SNMP, and various other advanced device fingerprinting techniques.
 
