@@ -635,6 +635,7 @@ See also [awesome-osint](https://github.com/jivoi/awesome-osint).
 * [SimplyEmail](https://github.com/SimplySecurity/SimplyEmail) - Email recon made fast and easy.
 * [WhatBreach](https://github.com/Ekultek/WhatBreach) - Search email addresses and discover all known breaches that this email has been seen in, and download the breached database if it is publicly available.
 * [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset to check if a specific digital asset was compromised in global Infostealer malware attacks
+* [Opsis](https://useopsis.com/) - Find the accounts linked to an email address, username or domain across 1000+ source modules (freemium).
 
 ### Metadata harvesting and analysis
 
